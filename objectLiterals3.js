@@ -7,4 +7,4 @@ var foo = {
 };
 
 console.log(foo);
-document.getElementById('txt').value = foo;
+document.getElementById('txt').value = foo.bas.bas1;
